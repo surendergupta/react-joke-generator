@@ -14,9 +14,15 @@ A simple and fun Joke Generator built with **React** that fetches random program
 
 ---
 
+## 🚀 Live Preview
+
+👉 [View it on Vercel](https://react-joke-generator-kappa.vercel.app/)
+
+---
+
 ## 🖼️ Preview
 
-![Joke Generator Preview](/public/joke-previews.mp4)
+![Joke Generator Preview](/public/joke-previews.gif)
 
 ---
 
