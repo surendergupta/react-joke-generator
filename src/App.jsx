@@ -1,13 +1,16 @@
 
+import Jokes from './Components/Jokes/Jokes';
+
 import './App.css'
+
 
 function App() {
 
   return (
-    <>
-      <h1>Joke Genrator</h1>
-      
-    </>
+    <div className='App'>
+      <h1>Joke Generator Using React and Joke API</h1>
+      <Jokes />
+    </div>
   )
 }
 
